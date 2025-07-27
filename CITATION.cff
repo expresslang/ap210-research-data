@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "AP210 Research Data Archive"
+abstract: "Comprehensive research datasets for ISO 10303-210 (AP210) Electronic Assembly, Interconnect and Packaging Design applications from NIST and PDES Inc."
+authors:
+  - name: "National Institute of Standards and Technology (NIST)"
+  - name: "PDES Inc."
+repository-code: "https://github.com/expresslang/ap210-research-data"
+url: "https://ap210.org"
+keywords:
+  - "AP210"
+  - "ISO 10303-210"
+  - "Electronic design"
+  - "CAD data exchange"
+  - "STEP"
+  - "Product data"
+license: "CC-BY-4.0"
+version: "1.0.0"
