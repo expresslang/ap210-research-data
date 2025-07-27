@@ -4,7 +4,7 @@
 
 ## Principal Organizations
 - **NIST** (National Institute of Standards and Technology)
-- **PDES Inc.** (Product Data Exchange Specification organization)
+- **PDES Inc.**
 
 ## Available Datasets
 
