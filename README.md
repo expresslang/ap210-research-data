@@ -28,7 +28,7 @@ When using this data, please cite:
 ```
 NIST, PDES Inc. AP210 Research Data Archive. 
 https://github.com/expresslang/ap210-research-data
-DOI: [Will be generated via Zenodo]
+DOI: https://doi.org/10.5281/zenodo.16496290
 ```
 
 ## Related Resources
